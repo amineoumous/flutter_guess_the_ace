@@ -1,6 +1,8 @@
-# guess_the_ace
+# Guess the Ace
 
-A Flutter App Game, Guess The Ace
+A simple Flutter App Game, you need to guess the Ace Card
+
+![Alt Ace](images/screen.jpg?raw=true "Title")
 
 ## Getting Started
 
