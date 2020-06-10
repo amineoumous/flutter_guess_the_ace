@@ -2,7 +2,7 @@
 
 A simple Flutter App Game, you need to guess the Ace Card
 
-![Alt Ace](images/screen.jpg?raw=true "Title")
+![Alt Ace](images/screen.gif?raw=true "Title")
 
 ## Getting Started
 
